@@ -1,0 +1,7 @@
+{
+  "drop_duplicates": true,
+  "drop_empty_rows": true,
+  "phone_country_code": "+1",
+  "date_format": "%Y-%m-%d",
+  "fill_missing_text": "unknown"
+}
