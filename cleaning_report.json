@@ -1,0 +1,8 @@
+{
+    "total_rows_original": 10,
+    "total_rows cleaned": 8,
+    "duplicates_removed": 2,
+    "invalid_emails": 2,
+    "invalid_phones": 1,
+    "invalid_dates": 0
+}
